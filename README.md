@@ -10,6 +10,3 @@ I am a beginner Go Developer.<br> Work in the Perm company as a python and javas
 ![Postgres](https://img.shields.io/badge/-Postgres-black?style=for-the-badge&logo=postgresql)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=for-the-badge&logo=Redis)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=Docker)
-
-### GitHub Stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=EgorMizerov&theme=react)](https://github.com/anuraghazra/github-readme-stats)
