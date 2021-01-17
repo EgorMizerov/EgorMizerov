@@ -1,7 +1,7 @@
 # Egor Mizerov (@egormizerov) 👋
 
 ### About
-I am a beginner Go Developer.<br> Work in the Perm company as a python and javascript developer.<br> In my spare time I develop microservices on Go, which you can see in my repositories
+I am a beginner Go Developer. <br> Work in the Perm company as a python and javascript developer.<br> In my spare time I develop microservices on Go, which you can see in my repositories
 
 ### Language and Tools
 ![Golang](https://img.shields.io/badge/-GO-black?style=for-the-badge&logo=go)
